@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_RussianRoulette", "Game_RussianRoulette\Game_RussianRoulette.csproj", "{438BFF9A-DEFE-455F-9F35-8E3D43FAAA4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRussianRoulette", "TestRussianRoulette\TestRussianRoulette.csproj", "{C523EAE3-47AC-487D-A829-61ACB0AF69B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{438BFF9A-DEFE-455F-9F35-8E3D43FAAA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438BFF9A-DEFE-455F-9F35-8E3D43FAAA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438BFF9A-DEFE-455F-9F35-8E3D43FAAA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438BFF9A-DEFE-455F-9F35-8E3D43FAAA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C523EAE3-47AC-487D-A829-61ACB0AF69B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C523EAE3-47AC-487D-A829-61ACB0AF69B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C523EAE3-47AC-487D-A829-61ACB0AF69B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C523EAE3-47AC-487D-A829-61ACB0AF69B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B286102-82D2-46BF-A203-F82F3C53D452}
+	EndGlobalSection
+EndGlobal
